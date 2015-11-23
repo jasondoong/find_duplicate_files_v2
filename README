@@ -1,0 +1,6 @@
+This program lists all duplicated files in the given folder. 
+
+Usage:
+./main.sh [input_folder]
+
+ex: ./main ~/Download
